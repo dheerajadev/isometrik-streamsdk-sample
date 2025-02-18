@@ -1,0 +1,4 @@
+module MqttCocoaAsyncSocket {
+umbrella "/Users/appscrip3embed/Library/Developer/Xcode/DerivedData/isometrik-example-fjdfspdjcvcdmkabwegasaeivukc/SourcePackages/checkouts/MqttCocoaAsyncSocket/Source/GCD"
+export *
+}

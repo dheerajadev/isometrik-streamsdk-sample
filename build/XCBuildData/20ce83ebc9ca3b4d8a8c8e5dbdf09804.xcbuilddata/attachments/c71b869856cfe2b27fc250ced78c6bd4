@@ -1,0 +1,4 @@
+module netfox {
+header "netfox-Swift.h"
+export *
+}

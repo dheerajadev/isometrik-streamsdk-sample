@@ -1,0 +1,4 @@
+module IsometrikStream {
+header "IsometrikStream-Swift.h"
+export *
+}

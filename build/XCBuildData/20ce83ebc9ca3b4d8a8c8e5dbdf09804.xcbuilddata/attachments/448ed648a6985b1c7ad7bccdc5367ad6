@@ -1,0 +1,508 @@
+{
+  "" : {
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/isometrik-example-master.dia",
+    "emit-module-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/isometrik-example-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/isometrik-example-master-emit-module.dia",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/isometrik-example-master.swiftdeps"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/AppDelegate.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/AllProduct/AllProductViewController+Delegate.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductViewController+Delegate.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductViewController+Delegate.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductViewController+Delegate.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductViewController+Delegate.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductViewController+Delegate.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductViewController+Delegate.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductViewController+Delegate.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductViewController+Delegate~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/AllProduct/AllProductsViewController.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductsViewController.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductsViewController.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductsViewController.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductsViewController.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductsViewController.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductsViewController.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductsViewController.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/AllProductsViewController~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/AllProduct/ProductDetailsViewController.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDetailsViewController.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDetailsViewController.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDetailsViewController.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDetailsViewController.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDetailsViewController.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDetailsViewController.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDetailsViewController.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDetailsViewController~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/AllProduct/View/ProductListTableViewCell.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductListTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductListTableViewCell.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductListTableViewCell.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductListTableViewCell.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductListTableViewCell.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductListTableViewCell.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductListTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductListTableViewCell~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/AllProduct/View/ProductToggleView.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductToggleView.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductToggleView.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductToggleView.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductToggleView.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductToggleView.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductToggleView.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductToggleView.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductToggleView~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/AllProduct/View/SelectedProductCollectionViewCell.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCollectionViewCell.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCollectionViewCell.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCollectionViewCell.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCollectionViewCell.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCollectionViewCell.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCollectionViewCell.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCollectionViewCell.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCollectionViewCell~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/AllProduct/View/SelectedProductCustomHeaderView.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCustomHeaderView.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCustomHeaderView.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCustomHeaderView.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCustomHeaderView.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCustomHeaderView.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCustomHeaderView.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCustomHeaderView.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SelectedProductCustomHeaderView~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/AllProduct/View/StoreListTableViewCell.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreListTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreListTableViewCell.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreListTableViewCell.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreListTableViewCell.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreListTableViewCell.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreListTableViewCell.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreListTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreListTableViewCell~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/Endpoints/ProductRequest.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequest.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequest.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequest.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequest.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequest.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequest.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequest.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequest~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/Endpoints/ProductRouter.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRouter.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRouter.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRouter.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRouter.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRouter.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRouter.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRouter.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRouter~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/GoLive/GoLiveProductListView.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GoLiveProductListView.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GoLiveProductListView.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GoLiveProductListView.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GoLiveProductListView.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GoLiveProductListView.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GoLiveProductListView.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GoLiveProductListView.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/GoLiveProductListView~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/Models/ISMProductConfiguration.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ISMProductConfiguration.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ISMProductConfiguration.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ISMProductConfiguration.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ISMProductConfiguration.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ISMProductConfiguration.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ISMProductConfiguration.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ISMProductConfiguration.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ISMProductConfiguration~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/Models/ProductRequestModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequestModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequestModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequestModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequestModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequestModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequestModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequestModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductRequestModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/Models/ResponseModel/ProductModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/Models/ResponseModel/StreamPinModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/Models/ResponseModel/StreamRemoveTaggedProductModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamRemoveTaggedProductModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamRemoveTaggedProductModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamRemoveTaggedProductModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamRemoveTaggedProductModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamRemoveTaggedProductModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamRemoveTaggedProductModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamRemoveTaggedProductModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamRemoveTaggedProductModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/Models/ResponseModel/StreamStoreModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/Models/ResponseModel/StreamStoreProductModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreProductModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreProductModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreProductModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreProductModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreProductModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreProductModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreProductModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamStoreProductModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/Models/StreamPinProductBodyModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinProductBodyModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinProductBodyModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinProductBodyModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinProductBodyModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinProductBodyModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinProductBodyModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinProductBodyModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamPinProductBodyModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/StoreProductList/StoreProductListViewController+Delegate.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController+Delegate.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController+Delegate.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController+Delegate.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController+Delegate.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController+Delegate.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController+Delegate.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController+Delegate.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController+Delegate~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/StoreProductList/StoreProductListViewController.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StoreProductListViewController~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/StoreProductList/View/ProductDefaultPlaceholderView.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDefaultPlaceholderView.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDefaultPlaceholderView.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDefaultPlaceholderView.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDefaultPlaceholderView.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDefaultPlaceholderView.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDefaultPlaceholderView.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDefaultPlaceholderView.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductDefaultPlaceholderView~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/StreamViewController+StreamProducts.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamViewController+StreamProducts.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamViewController+StreamProducts.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamViewController+StreamProducts.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamViewController+StreamProducts.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamViewController+StreamProducts.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamViewController+StreamProducts.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamViewController+StreamProducts.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamViewController+StreamProducts~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/TagProduct/Controller/StreamTagProductViewController+Delegate.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController+Delegate.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController+Delegate.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController+Delegate.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController+Delegate.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController+Delegate.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController+Delegate.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController+Delegate.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController+Delegate~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/TagProduct/Controller/StreamTagProductViewController.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductViewController~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/TagProduct/View/StreamTagProductTableViewCell.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductTableViewCell.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductTableViewCell.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductTableViewCell.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductTableViewCell.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductTableViewCell.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTagProductTableViewCell~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/TaggedProductList/Controller/StreamTaggedProductList+Delegate.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList+Delegate.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList+Delegate.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList+Delegate.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList+Delegate.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList+Delegate.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList+Delegate.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList+Delegate.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList+Delegate~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/TaggedProductList/Controller/StreamTaggedProductList.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamTaggedProductList~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/TaggedProductList/View/TaggedProductListTableViewCell.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/TaggedProductListTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/TaggedProductListTableViewCell.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/TaggedProductListTableViewCell.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/TaggedProductListTableViewCell.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/TaggedProductListTableViewCell.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/TaggedProductListTableViewCell.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/TaggedProductListTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/TaggedProductListTableViewCell~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/Products/ViewModel/ProductViewModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductViewModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductViewModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductViewModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductViewModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductViewModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductViewModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductViewModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ProductViewModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/SceneDelegate.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/StreamList/View/Controller/AddProductListViewProvider/CustomAddProductListViewProvider.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/CustomAddProductListViewProvider.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/CustomAddProductListViewProvider.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/CustomAddProductListViewProvider.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/CustomAddProductListViewProvider.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/CustomAddProductListViewProvider.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/CustomAddProductListViewProvider.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/CustomAddProductListViewProvider.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/CustomAddProductListViewProvider~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/StreamList/View/Controller/DemoFollowViewController.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/DemoFollowViewController.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/DemoFollowViewController.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/DemoFollowViewController.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/DemoFollowViewController.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/DemoFollowViewController.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/DemoFollowViewController.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/DemoFollowViewController.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/DemoFollowViewController~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/StreamList/View/Controller/StreamListViewController+Delegate.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController+Delegate.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController+Delegate.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController+Delegate.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController+Delegate.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController+Delegate.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController+Delegate.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController+Delegate.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController+Delegate~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/StreamList/View/Controller/StreamListViewController.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewController~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/StreamList/View/View/StreamCardCollectionViewCell.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamCardCollectionViewCell.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamCardCollectionViewCell.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamCardCollectionViewCell.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamCardCollectionViewCell.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamCardCollectionViewCell.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamCardCollectionViewCell.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamCardCollectionViewCell.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamCardCollectionViewCell~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/StreamList/View/View/StreamFilterCollectionViewCell.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFilterCollectionViewCell.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFilterCollectionViewCell.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFilterCollectionViewCell.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFilterCollectionViewCell.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFilterCollectionViewCell.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFilterCollectionViewCell.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFilterCollectionViewCell.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFilterCollectionViewCell~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/StreamList/View/View/StreamFiltersView.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFiltersView.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFiltersView.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFiltersView.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFiltersView.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFiltersView.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFiltersView.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFiltersView.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamFiltersView~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/StreamList/ViewModel/StreamListViewModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/StreamListViewModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/User/Endpoints/UserRequest.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRequest.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRequest.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRequest.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRequest.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRequest.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRequest.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRequest.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRequest~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/User/Endpoints/UserRouter.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRouter.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRouter.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRouter.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRouter.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRouter.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRouter.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRouter.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserRouter~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/User/Model/UserBodyModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserBodyModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserBodyModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserBodyModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserBodyModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserBodyModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserBodyModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserBodyModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserBodyModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/User/Model/UserReponseModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserReponseModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserReponseModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserReponseModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserReponseModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserReponseModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserReponseModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserReponseModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserReponseModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/User/UserViewModel.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserViewModel.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserViewModel.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserViewModel.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserViewModel.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserViewModel.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserViewModel.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserViewModel.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/UserViewModel~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/User/controller/LoggedProfileViewController.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoggedProfileViewController.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoggedProfileViewController.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoggedProfileViewController.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoggedProfileViewController.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoggedProfileViewController.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoggedProfileViewController.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoggedProfileViewController.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoggedProfileViewController~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/User/controller/LoginUserViewController.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoginUserViewController.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoginUserViewController.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoginUserViewController.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoginUserViewController.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoginUserViewController.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoginUserViewController.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoginUserViewController.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/LoginUserViewController~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/User/controller/SignupViewController.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SignupViewController.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SignupViewController.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SignupViewController.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SignupViewController.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SignupViewController.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SignupViewController.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SignupViewController.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/SignupViewController~partial.swiftmodule"
+  },
+  "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/isometrik-example/ViewController.swift" : {
+    "const-values" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/appscrip3embed/Documents/IsometrikStreamSDK/isometrik-example/build/isometrik-example.build/Debug-iphoneos/isometrik-example.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  }
+}
