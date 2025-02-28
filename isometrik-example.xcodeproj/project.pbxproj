@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 60;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -55,6 +55,8 @@
 		C7515DAF2C562AF1001E92D8 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7515DAE2C562AF1001E92D8 /* SignupViewController.swift */; };
 		C754BA8C2C357C5700014DC9 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C754BA8B2C357C5700014DC9 /* StoreKit.framework */; };
 		C78DEBE42CCB681E00367E25 /* DemoFollowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C78DEBE32CCB681E00367E25 /* DemoFollowViewController.swift */; };
+		C78E78322D71C97C00C9F459 /* IsometrikStream in Frameworks */ = {isa = PBXBuildFile; productRef = C78E78312D71C97C00C9F459 /* IsometrikStream */; };
+		C78E78342D71C97C00C9F459 /* IsometrikStreamUI in Frameworks */ = {isa = PBXBuildFile; productRef = C78E78332D71C97C00C9F459 /* IsometrikStreamUI */; };
 		C7C3C33C2D65B9BA00A4BB1F /* CacheDemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C3C33B2D65B9BA00A4BB1F /* CacheDemoViewController.swift */; };
 		C7E7D7162C5A1EEC00377FC8 /* StreamFiltersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E7D7152C5A1EEC00377FC8 /* StreamFiltersView.swift */; };
 		C7E7D7182C5A1FCF00377FC8 /* StreamFilterCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E7D7172C5A1FCF00377FC8 /* StreamFilterCollectionViewCell.swift */; };
@@ -130,6 +132,8 @@
 			files = (
 				C754BA8C2C357C5700014DC9 /* StoreKit.framework in Frameworks */,
 				C74339672C327FB00069DF48 /* IsometrikStreamUI in Frameworks */,
+				C78E78342D71C97C00C9F459 /* IsometrikStreamUI in Frameworks */,
+				C78E78322D71C97C00C9F459 /* IsometrikStream in Frameworks */,
 				C74339652C327FB00069DF48 /* IsometrikStream in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -450,6 +454,8 @@
 			packageProductDependencies = (
 				C74339642C327FB00069DF48 /* IsometrikStream */,
 				C74339662C327FB00069DF48 /* IsometrikStreamUI */,
+				C78E78312D71C97C00C9F459 /* IsometrikStream */,
+				C78E78332D71C97C00C9F459 /* IsometrikStreamUI */,
 			);
 			productName = "isometrik-example";
 			productReference = C74339392C3270FA0069DF48 /* isometrik-example.app */;
@@ -480,7 +486,7 @@
 			);
 			mainGroup = C74339302C3270FA0069DF48;
 			packageReferences = (
-				C74339632C327FB00069DF48 /* XCLocalSwiftPackageReference "../isometrik-livestream" */,
+				C78E78302D71C97C00C9F459 /* XCRemoteSwiftPackageReference "live-stream-swift" */,
 			);
 			productRefGroup = C743393A2C3270FA0069DF48 /* Products */;
 			projectDirPath = "";
@@ -701,7 +707,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "isometrik-example/isometrik-example.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 13;
+				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = 5A693V6KR5;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -718,12 +724,13 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.8;
-				PRODUCT_BUNDLE_IDENTIFIER = com.3embed.dub.ly;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.isometrik.chatbot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -737,7 +744,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "isometrik-example/isometrik-example.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 13;
+				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = 5A693V6KR5;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -754,12 +761,13 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.8;
-				PRODUCT_BUNDLE_IDENTIFIER = com.3embed.dub.ly;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.isometrik.chatbot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -789,12 +797,16 @@
 		};
 /* End XCConfigurationList section */
 
-/* Begin XCLocalSwiftPackageReference section */
-		C74339632C327FB00069DF48 /* XCLocalSwiftPackageReference "../isometrik-livestream" */ = {
-			isa = XCLocalSwiftPackageReference;
-			relativePath = "../isometrik-livestream";
+/* Begin XCRemoteSwiftPackageReference section */
+		C78E78302D71C97C00C9F459 /* XCRemoteSwiftPackageReference "live-stream-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/isometrikai/live-stream-swift";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
 		};
-/* End XCLocalSwiftPackageReference section */
+/* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
 		C74339642C327FB00069DF48 /* IsometrikStream */ = {
@@ -803,6 +815,16 @@
 		};
 		C74339662C327FB00069DF48 /* IsometrikStreamUI */ = {
 			isa = XCSwiftPackageProductDependency;
+			productName = IsometrikStreamUI;
+		};
+		C78E78312D71C97C00C9F459 /* IsometrikStream */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C78E78302D71C97C00C9F459 /* XCRemoteSwiftPackageReference "live-stream-swift" */;
+			productName = IsometrikStream;
+		};
+		C78E78332D71C97C00C9F459 /* IsometrikStreamUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C78E78302D71C97C00C9F459 /* XCRemoteSwiftPackageReference "live-stream-swift" */;
 			productName = IsometrikStreamUI;
 		};
 /* End XCSwiftPackageProductDependency section */

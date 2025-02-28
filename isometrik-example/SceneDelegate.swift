@@ -21,12 +21,11 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         window?.makeKeyAndVisible()
         
         // example showing customizing apperance (images,fonts, colors)
-        ISMAppearance.default.colors.appColor = UIColor(red: 202/255, green: 220/255, blue: 252/255, alpha: 1) 
-        ISMAppearance.default.colors.appSecondary = UIColor(red: 0/255, green: 36/255, blue: 107/255, alpha: 1)
+        ISMAppearance.default.colors.appColor = UIColor.colorWithHex(color: "#42213D")
+        ISMAppearance.default.colors.appSecondary = UIColor.colorWithHex(color: "#D19FC1")
         
         //ISMAppearance.default.images.analytics = UIImage(systemName: "rectangle.portrait.and.arrow.forward")!
         //ISMAppearance.default.colors.appColor = .red
-        
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {

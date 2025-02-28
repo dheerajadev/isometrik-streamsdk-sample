@@ -55,7 +55,6 @@ class ViewController: UIViewController {
             name = fullName
         }
         
-        
         let userId = loggedUserId
         let userToken = loggedUserToken
         
