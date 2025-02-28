@@ -282,17 +282,19 @@ class StreamListViewController: UIViewController, ISMAppearanceProvider {
     
     @objc func didGoLiveTapped() {
         
-        let goliveViewModel = GoLiveViewModel(
-            isometrik: viewModel.isometrik,
-            delegate: self,
-            addProductListViewProvider: CustomAddProductListViewProvider()
-        )
         
-        let controller = GoLiveViewController(viewModel: goliveViewModel)
         
-        let navVC = UINavigationController(rootViewController: controller)
-        navVC.modalPresentationStyle = .fullScreen
-        self.present(navVC, animated: true)
+//        let goliveViewModel = GoLiveViewModel(
+//            isometrik: viewModel.isometrik,
+//            delegate: self,
+//            addProductListViewProvider: CustomAddProductListViewProvider()
+//        )
+//        
+//        let controller = GoLiveViewController(viewModel: goliveViewModel)
+//        
+//        let navVC = UINavigationController(rootViewController: controller)
+//        navVC.modalPresentationStyle = .fullScreen
+//        self.present(navVC, animated: true)
         
     }
     

@@ -55,6 +55,7 @@
 		C7515DAF2C562AF1001E92D8 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7515DAE2C562AF1001E92D8 /* SignupViewController.swift */; };
 		C754BA8C2C357C5700014DC9 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C754BA8B2C357C5700014DC9 /* StoreKit.framework */; };
 		C78DEBE42CCB681E00367E25 /* DemoFollowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C78DEBE32CCB681E00367E25 /* DemoFollowViewController.swift */; };
+		C7C3C33C2D65B9BA00A4BB1F /* CacheDemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C3C33B2D65B9BA00A4BB1F /* CacheDemoViewController.swift */; };
 		C7E7D7162C5A1EEC00377FC8 /* StreamFiltersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E7D7152C5A1EEC00377FC8 /* StreamFiltersView.swift */; };
 		C7E7D7182C5A1FCF00377FC8 /* StreamFilterCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7E7D7172C5A1FCF00377FC8 /* StreamFilterCollectionViewCell.swift */; };
 		C7F0F8622C491EFF0032F918 /* LoginUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F0F8612C491EFF0032F918 /* LoginUserViewController.swift */; };
@@ -112,6 +113,7 @@
 		C7515DAE2C562AF1001E92D8 /* SignupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 		C754BA8B2C357C5700014DC9 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		C78DEBE32CCB681E00367E25 /* DemoFollowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoFollowViewController.swift; sourceTree = "<group>"; };
+		C7C3C33B2D65B9BA00A4BB1F /* CacheDemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheDemoViewController.swift; sourceTree = "<group>"; };
 		C7E5D7222C65DF86000DB758 /* isometrik-example.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "isometrik-example.entitlements"; sourceTree = "<group>"; };
 		C7E7D7152C5A1EEC00377FC8 /* StreamFiltersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamFiltersView.swift; sourceTree = "<group>"; };
 		C7E7D7172C5A1FCF00377FC8 /* StreamFilterCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamFilterCollectionViewCell.swift; sourceTree = "<group>"; };
@@ -330,6 +332,7 @@
 				C74339452C3270FB0069DF48 /* Assets.xcassets */,
 				C74339472C3270FB0069DF48 /* LaunchScreen.storyboard */,
 				C743394A2C3270FB0069DF48 /* Info.plist */,
+				C7C3C33B2D65B9BA00A4BB1F /* CacheDemoViewController.swift */,
 			);
 			path = "isometrik-example";
 			sourceTree = "<group>";
@@ -539,6 +542,7 @@
 				C7F0F8682C49254A0032F918 /* UserRequest.swift in Sources */,
 				C71FE8CA2C465BBE00B9FE2F /* SelectedProductCollectionViewCell.swift in Sources */,
 				C71FE8CD2C465BBE00B9FE2F /* AllProductViewController+Delegate.swift in Sources */,
+				C7C3C33C2D65B9BA00A4BB1F /* CacheDemoViewController.swift in Sources */,
 				C743393D2C3270FA0069DF48 /* AppDelegate.swift in Sources */,
 				C71FE8E92C465C8D00B9FE2F /* ProductRouter.swift in Sources */,
 				C71FE8EA2C465C8D00B9FE2F /* ProductRequest.swift in Sources */,
@@ -709,7 +713,7 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -745,7 +749,7 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
